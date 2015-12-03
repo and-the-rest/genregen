@@ -87,5 +87,9 @@ SUFFIXES = [
 ]
 
 GENRES = [
-
+	"jazz",
+	"rock",
+	"country",
+	"punk",
+	"rap"
 ]

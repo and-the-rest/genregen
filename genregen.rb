@@ -2,5 +2,10 @@
 
 require 'yaml'
 
-data = YAML::load_file('data.yml')
+module GenreGen
+	DATA = YAML::load_file('data.yml')
 
+	def self.genre
+
+	end
+end

@@ -20,19 +20,20 @@ module GenreGen
 	end
 
 	def self.adjective
-		'adjective'
+		# todo: chains of adjectives
+		DATA['adjectives'].sample
 	end
 
 	def self.genre
-		'genre'
+		DATA['genres'].sample
 	end
 
 	def self.prefix
-		'prefix'
+		DATA['prefixes'].sample
 	end
 
 	def self.suffix
-		'suffix'
+		DATA['suffixes'].sample
 	end
 end
 

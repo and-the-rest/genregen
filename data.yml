@@ -43,7 +43,6 @@ adjectives:
     - art
     - garage
     - melodic
-    - surf
     - medieval
     - modern
     - renaissance
@@ -79,6 +78,7 @@ prefixes:
     - riot
     - funk
     - metal
+    - surf
 
 suffixes:
     - core

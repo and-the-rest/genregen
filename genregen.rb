@@ -7,7 +7,7 @@ module GenreGen
 
 	def self.generate
 		template = DATA['templates'].sample
-		fill_template(template)
+		fill_template(template).capitalize
 	end
 
 	def self.fill_template(template)

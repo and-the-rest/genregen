@@ -10,6 +10,8 @@ module GenreGen
 		fill_template(template).capitalize
 	end
 
+	private
+
 	def self.fill_template(template)
 		template % {
 			adjective: adjective,

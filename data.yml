@@ -9,19 +9,30 @@ templates:
     - "%{adjective} %{prefix}-%{genre}%{suffix}"
 
 adjectives:
+    - acoustic
     - alternative
     - ambient
     - art
+    - avant-garde
+    - celtic
     - christian
+    - contemporary
     - continental
+    - cool
     - cosmic
     - digital
     - east-coast
     - electronic
     - epic
     - freaky
+    - french
+    - gangsta
     - garage
+    - german
     - ghetto
+    - gothic
+    - gregorian
+    - gypsy
     - hard
     - hardcore
     - heavy
@@ -29,9 +40,13 @@ adjectives:
     - improvised
     - indie
     - industrial
+    - inspirational
     - instrumental
     - international
+    - jungle
+    - latin
     - live
+    - lo-fi
     - medieval
     - melodic
     - meme
@@ -42,18 +57,26 @@ adjectives:
     - old-school
     - progressive
     - renaissance
+    - shoegaze
     - smooth
     - soft
+    - straightedge
     - street
+    - traditional
     - twee
+    - underground
     - west-coast
 
 prefixes:
     - acid
+    - afro
     - anarcho
     - anti
+    - break
+    - brit
     - cow
     - crust
+    - dixie
     - doom
     - drone
     - dub
@@ -61,13 +84,14 @@ prefixes:
     - ethno
     - freak
     - funk
-    - happy
+    - glitch
     - hard
     - J
     - K
     - kraut
     - metal
     - neo
+    - noise
     - nu
     - post
     - power
@@ -76,8 +100,10 @@ prefixes:
     - sad
     - surf
     - synth
+    - teen
     - thrash
     - trance
+    - trap
     - vapor
 
 suffixes:
@@ -96,12 +122,17 @@ suffixes:
 genres:
     - baroque
     - classical
+    - calypso
     - country
     - folk
+    - hip-hop
+    - jazz
+    - klezmer
+    - latin
     - polka
     - punk
-    - hip-hop
+    - reggae
     - rock
     - romantic
-    - polka
-    - jazz
+    - ska
+    - swing

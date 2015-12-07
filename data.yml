@@ -56,6 +56,7 @@ adjectives:
     - new-age
     - old-school
     - progressive
+    - queer
     - renaissance
     - shoegaze
     - smooth
@@ -76,6 +77,7 @@ prefixes:
     - brit
     - cow
     - crust
+    - death
     - dixie
     - doom
     - drone
@@ -84,8 +86,10 @@ prefixes:
     - ethno
     - freak
     - funk
+    - glam
     - glitch
     - hard
+    - horror
     - J
     - K
     - kraut
@@ -124,8 +128,10 @@ genres:
     - classical
     - calypso
     - country
+    - disco
     - folk
     - hip-hop
+    - house
     - jazz
     - klezmer
     - latin

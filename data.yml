@@ -1,6 +1,8 @@
 ---
 
 templates:
+    - "%{genre}%{suffix}"
+    - "%{prefix}-%{genre}"
     - "%{adjective} %{genre}"
     - "%{adjective} %{prefix}-%{genre}"
     - "%{adjective} %{genre}%{suffix}"
@@ -96,7 +98,7 @@ genres:
     - classical
     - country
     - folk
-    - polk
+    - polka
     - punk
     - hip-hop
     - rock

@@ -33,6 +33,7 @@ adjectives:
     - epic
     - digital
     - street
+    - meme
     - ghetto
     - hood
     - freaky
@@ -44,7 +45,8 @@ adjectives:
     - melodic
     - surf
     - medieval
-
+    - modern 
+    - renaissance
 prefixes:
     - neo
     - post
@@ -100,4 +102,3 @@ genres:
     - classical
     - baroque
     - romantic
-    - polka

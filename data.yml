@@ -7,100 +7,100 @@ templates:
     - "%{adjective} %{prefix}-%{genre}%{suffix}"
 
 adjectives:
-    - smooth
+    - alternative
     - ambient
+    - art
+    - christian
+    - continental
+    - cosmic
+    - digital
+    - east-coast
+    - electronic
+    - epic
+    - freaky
+    - garage
+    - ghetto
+    - hard
     - hardcore
+    - heavy
+    - hood
+    - improvised
     - indie
     - industrial
-    - alternative
-    - progressive
     - instrumental
-    - new-age
-    - cosmic
-    - live
-    - improvised
-    - new
-    - old-school
-    - hard
-    - east-coast
-    - west-coast
-    - midwest
-    - continental
     - international
-    - twee
-    - christian
-    - heavy
-    - epic
-    - digital
-    - street
-    - meme
-    - ghetto
-    - hood
-    - freaky
-    - epic
-    - electronic
-    - soft
-    - art
-    - garage
-    - melodic
+    - live
     - medieval
+    - melodic
+    - meme
+    - midwest
     - modern
+    - new
+    - new-age
+    - old-school
+    - progressive
     - renaissance
+    - smooth
+    - soft
+    - street
+    - surf
+    - twee
+    - west-coast
 
 prefixes:
-    - neo
-    - post
-    - proto
-    - wave
-    - vapor
-    - trance
-    - K
-    - J
-    - dub
-    - drone
-    - hard
-    - electro
-    - nu
-    - synth
-    - anti
     - acid
-    - freak
-    - ethno
+    - anarch
+    - anti
     - cow
-    - doom
-    - happy
-    - sad
     - crust
-    - kraut
-    - anarcho
-    - thrash
-    - power
-    - riot
+    - doom
+    - drone
+    - dub
+    - electro
+    - ethno
+    - freak
     - funk
+    - happy
+    - hard
+    - J
+    - K
+    - kraut
     - metal
+    - neo
+    - nu
+    - post
+    - power
+    - proto
+    - riot
+    - sad
     - surf
+    - synth
+    - thrash
+    - trance
+    - vapor
 
 suffixes:
-    - core
-    - style
-    - wave
     - beat
-    - punk
-    - tech
-    - funk
     - clash
-    - pop
+    - core
+    - funk
     - grind
+    - pop
+    - punk
+    - style
+    - tech
     - violence
+    - wave
 
 genres:
-    - jazz
-    - rock
-    - country
-    - punk
-    - rap
-    - folk
-    - classical
     - baroque
+    - classical
+    - country
+    - folk
+    - polk
+    - punk
+    - hip-hop
+    - rock
     - romantic
     - polka
+    - jazz

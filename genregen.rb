@@ -20,8 +20,7 @@ module GenreGen
 	end
 
 	def self.adjective
-		# todo: chains of adjectives
-		DATA['adjectives'].sample
+		DATA['adjectives'].sample(rand(1..3)).join(' ')
 	end
 
 	def self.genre

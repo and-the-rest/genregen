@@ -7,7 +7,8 @@ Gem::Specification.new do |s|
 	s.description = 'A gem for generating music genres.'
 	s.authors = ['William Woodruff']
 	s.email = 'william@tuffbizz.com'
-	s.files = Dir['LICENSE', 'README.md', '.yardopts', 'lib/**/*', 'bin/**/*']
+	s.files = Dir['LICENSE', 'README.md', '.yardopts', 'lib/**/*']
+	s.executables << 'genregen'
 	s.homepage = 'https://github.com/and-the-rest/genregen'
 	s.license = 'MIT'
 end

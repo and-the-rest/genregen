@@ -21,6 +21,7 @@ adjectives:
     - cool
     - cosmic
     - digital
+    - downtempo
     - east-coast
     - electronic
     - epic
@@ -37,6 +38,7 @@ adjectives:
     - hardcore
     - heavy
     - hood
+    - hot
     - improvised
     - indie
     - industrial
@@ -58,14 +60,19 @@ adjectives:
     - progressive
     - queer
     - renaissance
+    - scandinavian
     - shoegaze
     - smooth
     - soft
     - straightedge
     - street
     - traditional
+    - trippy
     - twee
     - underground
+    - uptempo
+    - urban
+    - western
     - west-coast
 
 prefixes:
@@ -73,6 +80,8 @@ prefixes:
     - afro
     - anarcho
     - anti
+    - arena
+    - black
     - break
     - brit
     - cow
@@ -81,9 +90,9 @@ prefixes:
     - dixie
     - doom
     - drone
-    - dub
     - electro
     - ethno
+    - euro
     - freak
     - funk
     - glam
@@ -101,6 +110,7 @@ prefixes:
     - post
     - power
     - proto
+    - pseudo
     - riot
     - sad
     - surf
@@ -108,18 +118,23 @@ prefixes:
     - teen
     - thrash
     - trance
+    - trans
     - trap
     - trip
     - vapor
 
 suffixes:
     - beat
+    - billy
+    - bop
     - clash
     - core
     - funk
     - grind
     - pop
     - punk
+    - steady
+    - step
     - style
     - tech
     - violence
@@ -127,10 +142,13 @@ suffixes:
 
 genres:
     - baroque
+    - blues
     - classical
     - calypso
     - country
+    - dance
     - disco
+    - dub
     - folk
     - hop
     - house
@@ -138,9 +156,9 @@ genres:
     - klezmer
     - latin
     - polka
-    - punk
     - reggae
     - rock
     - romantic
+    - r&b
     - ska
     - swing

@@ -2,9 +2,18 @@
 
 require 'yaml'
 
+# The primary namespace for genregen.
 module GenreGen
-	DATA = YAML::load_file('data.yml')
+	# release version
+	VERSION = "0.0.1".freeze
 
+	# data hash
+	DATA = YAML::load_file(File.join(File.dirname(__FILE__), 'data.yml'))
+
+	# Generates a new genre.
+	# @example
+	#  GenreGen.generate # => "Soft smooth ethno-baroque"
+	# @return [String] a new genre
 	def self.generate
 		template = DATA['templates'].sample
 		fill_template(template).capitalize
@@ -37,5 +46,3 @@ module GenreGen
 		DATA['suffixes'].sample
 	end
 end
-
-puts GenreGen.generate

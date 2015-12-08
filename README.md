@@ -22,3 +22,13 @@ GenreGen.generate
 ```bash
 $ genregen
 ```
+
+## Contributing
+
+Improvements to the generator and dataset are welcomed and appreciated.
+
+When adding to [lib/data.yml](data.yml), please preserve alphabetical order.
+
+## License
+
+See [LICENSE](the LICENSE file).

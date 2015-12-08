@@ -27,7 +27,7 @@ $ genregen
 
 Improvements to the generator and dataset are welcomed and appreciated.
 
-When adding to [lib/data.yml](data.yml), please preserve alphabetical order.
+When adding to [data.yml](lib/data.yml), please preserve alphabetical order.
 
 ## License
 

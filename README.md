@@ -31,4 +31,4 @@ When adding to [data.yml](lib/data.yml), please preserve alphabetical order.
 
 ## License
 
-See [LICENSE](the LICENSE file).
+See [the LICENSE file](LICENSE).

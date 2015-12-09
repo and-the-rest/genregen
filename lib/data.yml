@@ -9,6 +9,8 @@ templates:
     - "%{adjective} %{prefix}-%{genre}%{suffix}"
 
 adjectives:
+    - 80s
+    - 90s
     - acoustic
     - alternative
     - ambient
@@ -47,18 +49,19 @@ adjectives:
     - inspirational
     - instrumental
     - international
+    - irish
     - jungle
     - latin
     - live
     - lo-fi
     - medieval
     - melodic
-    - meme
     - midwest
     - modern
     - new
     - new-age
     - old-school
+    - postmodern
     - progressive
     - queer
     - renaissance
@@ -107,6 +110,7 @@ prefixes:
     - J
     - K
     - kraut
+    - meme
     - metal
     - neo
     - noise
@@ -154,17 +158,21 @@ genres:
     - disco
     - dub
     - folk
+    - gospel
+    - grunge
     - hip-hop # "hip-hip-hop"
     - hop
     - house
     - jazz
     - klezmer
     - latin
+    - mariachi
     - polka
     - rap
     - reggae
     - rock
     - romantic
     - r&b
+    - salsa
     - ska
     - swing

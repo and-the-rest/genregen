@@ -61,6 +61,7 @@ adjectives:
     - new
     - new-age
     - old-school
+    - positive
     - postmodern
     - progressive
     - queer
@@ -91,6 +92,7 @@ prefixes:
     - break
     - brit
     - cow
+    - crunk
     - crust
     - death
     - dixie
@@ -101,8 +103,10 @@ prefixes:
     - euro
     - freak
     - funk
+    - foxcore
     - glam
     - glitch
+    - gore
     - groove
     - hard
     - hip
@@ -110,10 +114,12 @@ prefixes:
     - J
     - K
     - kraut
+    - krishna
     - math
     - meme
     - metal
     - neo
+    - nintendo
     - noise
     - nu
     - post
@@ -122,8 +128,10 @@ prefixes:
     - pseudo
     - riot
     - sad
+    - skate
     - surf
     - synth
+    - taqwa
     - teen
     - thrash
     - trance

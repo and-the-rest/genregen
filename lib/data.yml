@@ -17,7 +17,10 @@ adjectives:
     - art
     - atonal
     - avant-garde
+    - cajun
+    - caribbean
     - celtic
+    - chicago
     - christian
     - contemporary
     - continental
@@ -26,6 +29,7 @@ adjectives:
     - digital
     - downtempo
     - east-coast
+    - electric
     - electronic
     - epic
     - fast
@@ -54,6 +58,7 @@ adjectives:
     - latin
     - live
     - lo-fi
+    - loud
     - medieval
     - melodic
     - midwest
@@ -61,10 +66,12 @@ adjectives:
     - new
     - new-age
     - old-school
+    - orchestral
     - positive
     - postmodern
     - progressive
     - queer
+    - quiet
     - raw
     - renaissance
     - scandinavian
@@ -73,6 +80,7 @@ adjectives:
     - smooth
     - soft
     - sparse
+    - stoner
     - straightedge
     - street
     - traditional
@@ -99,6 +107,7 @@ prefixes:
     - death
     - dixie
     - doom
+    - dream
     - drone
     - electro
     - ethno
@@ -129,6 +138,7 @@ prefixes:
     - proto
     - pseudo
     - riot
+    - roots
     - sad
     - skate
     - surf
@@ -149,6 +159,7 @@ suffixes:
     - clash
     - core
     - funk
+    - fusion
     - grind
     - pop
     - punk
@@ -162,8 +173,9 @@ suffixes:
 genres:
     - baroque
     - blues
-    - classical
     - calypso
+    - chant
+    - classical
     - country
     - dance
     - disco
@@ -179,6 +191,7 @@ genres:
     - latin
     - lounge
     - mariachi
+    - opera
     - polka
     - rap
     - reggae
@@ -186,5 +199,7 @@ genres:
     - rumba
     - r&b
     - salsa
+    - sing-along
     - ska
     - swing
+    - zydeco

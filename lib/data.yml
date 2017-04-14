@@ -1,5 +1,17 @@
 ---
 
+# XXX: some genres don't go well with prefixes and suffixes, and probably
+# belong in their own category once there are enough of them:
+# - bossa nova
+# - big band
+# - nashville sound
+# - ragtime
+# - honky-tonk
+# - turntablism
+# - sea shanties
+# - yodeling
+# - throat singing
+
 templates:
     - "%{genre}%{suffix}"
     - "%{prefix}-%{genre}"
@@ -7,6 +19,7 @@ templates:
     - "%{adjective} %{prefix}-%{genre}"
     - "%{adjective} %{genre}%{suffix}"
     - "%{adjective} %{prefix}-%{genre}%{suffix}"
+    - "%{adjective} %{prefix}%{suffix}"
 
 adjectives:
     - 80s
@@ -26,6 +39,8 @@ adjectives:
     - continental
     - cool
     - cosmic
+    - dank
+    - detroit
     - digital
     - downtempo
     - east-coast
@@ -33,6 +48,7 @@ adjectives:
     - electronic
     - epic
     - fast
+    - fat
     - freaky
     - french
     - gangsta
@@ -63,8 +79,10 @@ adjectives:
     - melodic
     - midwest
     - modern
+    - mushroom
     - new
     - new-age
+    - new york
     - old-school
     - orchestral
     - positive
@@ -76,11 +94,13 @@ adjectives:
     - quiet
     - raw
     - renaissance
+    - romantic
     - scandinavian
     - shoegaze
     - slow
     - smooth
     - soft
+    - space-age
     - sparse
     - stoner
     - straightedge
@@ -100,18 +120,23 @@ prefixes:
     - anarcho
     - anti
     - arena
+    - auto
     - black
     - break
     - brit
+    - chill
+    - chip
     - cow
     - crunk
     - crust
     - death
     - dixie
     - doom
+    - down
     - dream
     - drone
     - electro
+    - emo
     - ethno
     - euro
     - freak
@@ -135,6 +160,7 @@ prefixes:
     - nintendo
     - noise
     - nu
+    - party
     - post
     - power
     - proto
@@ -153,7 +179,9 @@ prefixes:
     - trans
     - trap
     - trip
+    - unblack
     - vapor
+    - viking
 
 suffixes:
     - beat
@@ -170,12 +198,14 @@ suffixes:
     - step
     - style
     - tech
+    - tune
     - violence
     - wave
 
 genres:
     - baroque
     - blues
+    - boogaloo
     - calypso
     - chant
     - classical
@@ -193,11 +223,13 @@ genres:
     - klezmer
     - latin
     - lounge
+    - mambo
     - mariachi
     - metal
     - opera
     - polka
     - rap
+    - rave
     - reggae
     - rock
     - rumba
@@ -205,5 +237,8 @@ genres:
     - salsa
     - sing-along
     - ska
+    - skiffle
     - swing
+    - techno
+    - vocaloid
     - zydeco

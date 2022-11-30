@@ -5,7 +5,7 @@ require 'yaml'
 # The primary namespace for genregen.
 module GenreGen
 	# release version
-	VERSION = "0.0.8".freeze
+	VERSION = "0.0.9".freeze
 
 	# data hash
 	DATA = YAML::load_file(File.join(File.dirname(__FILE__), 'data.yml'))
